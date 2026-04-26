@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Kishore**, a 3rd-year student from **Tamil Nadu, India** passionate about **Cybersecurity**. I have hands-on knowledge in **Linux, Networking, Wireshark, Git, and SSH**.<br>
-🎓 I hold certifications in **Cisco Networking Basics**, **Cisco Introduction to Cybersecurity**, and **TCM Linux 101 Fundamentals**.<br>
+🎓 I hold certifications in **Cisco Networking Basics**, **Cisco Introduction to Cybersecurity**, and **TCM Linux 100 Fundamentals**.<br>
 🔐 Currently sharpening my skills in **Wireshark** and learning Cybersecurity hands-on through **TryHackMe**.<br>
 📖 I actively **document my cybersecurity learning journey** through repos like **OverTheWire Bandit** and **Wireshark Fundamentals** to share knowledge and track my growth.<br>
 🎯 Looking for an **Internship or Job in Cybersecurity** to kickstart my career.
@@ -9,8 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-yuvaraj-649b51295)
 
 ## 🏅 Certifications:
-![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/6f0252b7-1ecb-42ec-a5eb-0d083adfa3ef/public_url)
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/42fd3d23-6eeb-4161-9ae3-e50d8e250a51/public_url)
 ![TCM Linux](https://img.shields.io/badge/TCM-Linux%20101%20Fundamentals-red?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 💻 Tech Stack:
