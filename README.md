@@ -1,9 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm **Kishore**, a 3rd-year student from **Tamil Nadu, India** passionate about **Cybersecurity**. I have hands-on knowledge in **Linux, Networking, Wireshark, Git, and SSH**.<br>
-🎓 I hold certifications in **Cisco Networking Basics**, **Cisco Introduction to Cybersecurity**, and **TCM Linux 100 Fundamentals**.<br>
-🔐 Currently sharpening my skills in **Wireshark** and learning Cybersecurity hands-on through **TryHackMe**.<br>
-📖 I actively **document my cybersecurity learning journey** through repos like **OverTheWire Bandit** and **Wireshark Fundamentals** to share knowledge and track my growth.<br>
-🎯 Looking for an **Internship or Job in Cybersecurity** to kickstart my career.
+👋 Hi, I'm Kishore, a 3rd-year student from Tamil Nadu, India, building skills at the intersection of Software Development and Cybersecurity.
+💻 Currently learning Java and backend development, working toward building deployable, real-world software.
+🌐 I also have hands-on knowledge in Linux, Networking, Wireshark, Git, and SSH.
+🎓 I hold certifications in Cisco Networking Basics, Cisco Introduction to Cybersecurity, and TCM Security Linux 101 Fundamentals.
+📂 I document my learning journey through repos like OverTheWire Bandit and Wireshark Fundamentals, Java Practice, and I'm now building Java projects to go with them.
+🎯 Looking for a Software Development / Java Developer internship where I can apply my growing development skills, with networking and security fundamentals as my differentiator.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-yuvaraj-649b51295)
